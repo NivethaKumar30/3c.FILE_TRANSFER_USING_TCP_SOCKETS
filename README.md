@@ -67,9 +67,11 @@ start_client()
 ```
 ## OUPUT
 **SERVER:**
+
 ![image](https://github.com/NivethaKumar30/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/119559844/f7944fc0-0e43-43d8-baab-6feef9e65462)
 
 **CLIENT:**
+
 ![image](https://github.com/NivethaKumar30/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/119559844/a969a479-a990-4478-84c8-82a68084555a)
 
 
